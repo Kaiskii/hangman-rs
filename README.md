@@ -1,5 +1,4 @@
 # hangman-rs
-## Overview
 = Rust Learning Adventure #1 =
 
 Start Date & Time: 21st March 2024 0800 GMT+8
