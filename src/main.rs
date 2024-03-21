@@ -26,11 +26,9 @@ fn game_loop(word_ref: &str) {
     let mut buffer = String::from("");
     let mut correct = String::from("");
     let mut history = String::from("");
-    let mut blank = String::from("");
 
     loop {
-        blank = String::from("");
-        println!("{}", word_ref);
+        let mut blank = String::from("");
 
         // Logic to process words
         for c in word_ref.chars() {
