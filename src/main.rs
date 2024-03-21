@@ -1,6 +1,5 @@
 use std::env;
 use std::io;
-use std::sync::Arc;
 use reqwest::Client;
 use reqwest::Result;
 use dotenvy::dotenv;
