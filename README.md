@@ -1,5 +1,4 @@
 # hangman-rs
-___
 ## Overview
 = Rust Learning Adventure #1 =
 
